@@ -1,6 +1,8 @@
+![Parvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=parveshsandila&show_icons=true&theme=radical)
+<br><br>
 - 👋 Hi, I’m @ParveshSandila
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Jetpack compose
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on android app development projects
 - 📫 You can contact me on parveshsandila@gmail.com
 
