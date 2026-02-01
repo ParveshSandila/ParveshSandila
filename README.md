@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
-</p>
-
 # 👋 Hey, I'm **Parvesh Sandila** 🥷  
 ## 🚀 Senior Software Engineer | Mobile • Web • AI Automation 👨‍💻
 
