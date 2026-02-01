@@ -49,10 +49,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400"/>
-</p>
-
 ### 🤖 AI, Automation & No-Code
 ![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -62,6 +58,11 @@
 ![Tavus](https://img.shields.io/badge/Tavus-AI-orange?style=for-the-badge)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
 ![Cartesia](https://img.shields.io/badge/Cartesia-AI-green?style=for-the-badge)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400"/>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
@@ -80,10 +81,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌳 Knowledge Tree — **Owlbuddy**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="350"/>
-</p>
 
 🦉 **Owlbuddy** is my knowledge ecosystem where I share:
 - AI & Automation insights  
