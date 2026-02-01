@@ -23,6 +23,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+## 🧠 What I Do as a Senior Software Engineer
+
+- Architect **scalable mobile & web systems**
+- Build production-ready **Flutter & Android apps**
+- Design **AI chatbots & automation workflows**
+- Deliver **ReactJS & WordPress solutions**
+- Deploy & manage apps on **Vercel**
+- Mentor developers & collaborate with product teams
+- Translate **business goals → technical execution**
+
+✨ Focused on **clean architecture, speed, and long-term scalability**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ## 🚀 Tech Stack & Expertise
 
 ### 📱 Mobile Development
@@ -62,21 +76,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400"/>
 </p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🧠 What I Do as a Senior Software Engineer
-
-- Architect **scalable mobile & web systems**
-- Build production-ready **Flutter & Android apps**
-- Design **AI chatbots & automation workflows**
-- Deliver **ReactJS & WordPress solutions**
-- Deploy & manage apps on **Vercel**
-- Mentor developers & collaborate with product teams
-- Translate **business goals → technical execution**
-
-✨ Focused on **clean architecture, speed, and long-term scalability**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
