@@ -62,16 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ParveshSandila&theme=radical" />
-</p>
-
-
----
-
 ## 🌳 Knowledge Tree – **Owlbuddy**
 
 🦉 **Owlbuddy** is my knowledge ecosystem where I share:
