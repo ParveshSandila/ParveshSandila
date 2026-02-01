@@ -6,7 +6,7 @@
 
 🧠 Currently working deeply with **Flutter, ReactJS, AI Chatbots, and No-Code/Low-Code AI tools** to ship products faster.
 
-🌱 Founder @ **Knowledge Tree – Owlbuddy** (Learning • AI • Tech Growth)
+🌱 Founder @ **Owlbuddy** (Learning • AI • Tech Growth)
 
 🤝 Open to **senior-level collaborations**, startups, and product consulting.
 
@@ -62,15 +62,13 @@
 
 ---
 
-## 📊 GitHub Stats (Fixed & Working ✅)
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parveshsandila&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveshsandila&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parveshsandila&theme=radical&hide_border=true" width="60%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=parveshsandila&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
+    height="170"
+  />
 </p>
 
 ---
